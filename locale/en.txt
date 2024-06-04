@@ -1,0 +1,378 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_004362CD_0DF8_550A_41A2_E43911BDDCA2_mobile.url = http://cbucci.com/ads/cada/01/fullscreen_clasic_dark.html
+WebFrame_004362CD_0DF8_550A_41A2_E43911BDDCA2.url = http://cbucci.com/ads/cada/01/fullscreen_clasic_dark.html
+LinkBehaviour_656D1C50_693D_AB29_41D5_3CD13D4E5AE9.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20gust%C3%B3%20el%20Paseo%20Digital%20del%20Colegio%20Adventista!
+LinkBehaviour_F9172F36_E08E_C941_41E1_828194915493.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20gust%C3%B3%20el%20Paseo%20Digital%20del%20Colegio%20Adventista!
+WebFrame_815EB9DA_EC9E_0D59_41D4_4970D3CBCBE3.url = https://instadv.cbucci.com/
+WebFrame_815EB9DA_EC9E_0D59_41D4_4970D3CBCBE3_mobile.url = https://instadv.cbucci.com/
+WebFrame_6464F306_694D_BD29_41C8_552DFE040E21.url = https://www.educacionadventista.com/ensenanza/nivel-inicial/
+WebFrame_6475730C_694D_BD39_41D9_9B75ED204E6D.url = https://www.educacionadventista.com/ensenanza/nivel-primario/
+WebFrame_64056314_694D_BD29_419C_0DA1F176E54A.url = https://www.educacionadventista.com/ensenanza/nivel-secundario/
+WebFrame_640AA31A_694D_BD59_41D7_9E7DD183E9E6.url = https://www.educacionadventista.com/ensenanza/nivel-secundario/
+WebFrame_64012316_694D_BD29_41D0_3385CA860B77.url = https://www.educacionadventista.com/ensenanza/nivel-secundario/
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1072.36563120268!2d-57.61216582710303!3d-25.304417062917672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x71d74293f517700e!2sColegio%20Adventista%20de%20Asunci%C3%B3n!5e0!3m2!1ses-419!2spy!4v1576006038833!5m2!1ses-419!2spy
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1072.36563120268!2d-57.61216582710303!3d-25.304417062917672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x71d74293f517700e!2sColegio%20Adventista%20de%20Asunci%C3%B3n!5e0!3m2!1ses-419!2spy!4v1576006038833!5m2!1ses-419!2spy
+VideoUrl_65D1D2B5_694D_BF6B_4190_246DC4FD2DD8.url = //www.youtube.com/embed/Js4IrgZ_W44?v=Js4IrgZ_W44
+VideoUrl_65F2E2D1_694D_BF2B_41D7_410469C87C6C.url = //www.youtube.com/embed/Y7BmSbFBhLQ
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_EA3B60DC_E086_38C1_41E2_D20C45B35E2F.text =                            Palabras de la                           Coordinadora de Niños
+HotspotPanoramaOverlayTextImage_EA3B40DC_E086_38C1_41C7_ACA5971B7B2A.text =                            Palabras del                           Coordinador de Jóvenes
+HotspotPanoramaOverlayTextImage_EA3B20DC_E086_38C1_41E0_B6B2F3AD1B1C.text =                            Palabras del                           Director
+HotspotPanoramaOverlayTextImage_EA3BE0DE_E086_38C1_41DD_0DF0DDA3E846.text =           Jardín
+HotspotPanoramaOverlayTextImage_EA46B0E6_E086_38C1_41C0_119C59FBFD0F.text =          Acceso a     Primer Grado
+HotspotPanoramaOverlayTextImage_EA3B80DF_E086_38FF_41EA_FFF5BA61C6F7.text =          Jardín
+HotspotPanoramaOverlayTextImage_EA4700E7_E086_38CF_41E0_2FE63DA9C9EC.text =        5to Grado
+HotspotPanoramaOverlayTextImage_EA46F0E7_E086_38CF_41E2_34F8DC9FDEE0.text =        6to Grado
+HotspotPanoramaOverlayTextImage_EA3BF0DE_E086_38C1_4188_39AA507B96C2.text =        Comedor
+HotspotPanoramaOverlayTextImage_EA38B0DE_E086_38C1_41C0_679AE0B245B1.text =        Recepción
+HotspotPanoramaOverlayTextImage_EA4630E9_E086_38C3_41BA_6C3A2EB13DC1.text =       Biblioteca
+HotspotPanoramaOverlayTextImage_EA3860DE_E086_38C1_41D4_C68529F4C99C.text =       Pasillo
+HotspotPanoramaOverlayTextImage_EA3830DE_E086_38C1_41D0_A3BE320801FA.text =      1er Piso
+HotspotPanoramaOverlayTextImage_EA3980E7_E086_38CF_41BD_6F7353076CF6.text =      2do Piso
+HotspotPanoramaOverlayTextImage_EA39C0E2_E086_38C1_41D6_65AD51AA0F41.text =      Acceso a Laboratorio de    Simulación
+HotspotPanoramaOverlayTextImage_EA46A0E6_E086_38C1_41E5_CEC3FC93F191.text =      Comedor
+HotspotPanoramaOverlayTextImage_EA3AE0DC_E086_38C1_41E0_3DE4AF076D69.text =      Comedor
+HotspotPanoramaOverlayTextImage_EA3AF0DC_E086_38C1_41B4_7A99B152AE6E.text =      Dirección
+HotspotPanoramaOverlayTextImage_EA4670E6_E086_38C1_41DF_B49E89E3CE51.text =      Playground
+HotspotPanoramaOverlayTextImage_EA3800E0_E086_38C1_41EA_AD8311E01B7B.text =     1er Piso
+HotspotPanoramaOverlayTextImage_EA3860E0_E086_38C1_41CD_5B46CC5E8F6B.text =     Entrada a     Comedor
+HotspotPanoramaOverlayTextImage_EA3B60DF_E086_38FF_41E4_90B478638288.text =     Entrada a Comedor
+HotspotPanoramaOverlayTextImage_EA3870E0_E086_38C1_41E7_EF51CD96A54E.text =     Pasillo
+HotspotPanoramaOverlayTextImage_EA3BF0E0_E086_38C1_41E6_965EBEA3FEA0.text =     Pasillo a 1er         Grado
+HotspotPanoramaOverlayTextImage_EA3910E1_E086_38C3_41DB_31ADA1EC5F51.text =     Polideportivo
+HotspotPanoramaOverlayTextImage_EA3810DE_E086_38C1_41E6_2E1362CE02D0.text =     Polideportivo
+HotspotPanoramaOverlayTextImage_EA4660E5_E086_38C3_41B9_3649753FF8F8.text =     Preescolar
+HotspotPanoramaOverlayTextImage_EA3890E0_E086_38C1_41E1_47156087B907.text =     Preescolar
+HotspotPanoramaOverlayTextImage_EA3BA0DD_E086_38C3_41E6_2B48C381E24E.text =     Recepción
+HotspotPanoramaOverlayTextImage_EA3830E0_E086_38C1_41BD_E85585A1E3F4.text =     Recepción
+HotspotPanoramaOverlayTextImage_EA3BD0E0_E086_38C1_41EA_5218A0DBA599.text =    Laboratorio   Informática
+HotspotPanoramaOverlayTextImage_EA3980E2_E086_38C1_41C9_D98FA246F0A2.text =    Laboratorio   Informática
+HotspotPanoramaOverlayTextImage_EA39A0E7_E086_38CF_41D0_6D3A420CE7D1.text =    Planta Baja
+HotspotPanoramaOverlayTextImage_EA3880DE_E086_38C1_41CF_C7294EBC9AA8.text =    Playground
+HotspotPanoramaOverlayTextImage_EA3B70DF_E086_38FF_41E4_69395B6CB500.text =   Polideportivo
+HotspotPanoramaOverlayTextImage_EA3920E1_E086_38C3_41C9_40934F86E7E3.text =   Preescolar
+HotspotPanoramaOverlayTextImage_EA3BA0DF_E086_38FF_41EA_BF174270672D.text =   Preescolar
+HotspotPanoramaOverlayTextImage_EA3840DE_E086_38C1_4173_0FBBC0EDA3B0.text =   Preescolar
+HotspotPanoramaOverlayTextImage_EA4640E9_E086_38C3_41EA_6B99217A2F1F.text =  1er Piso
+HotspotPanoramaOverlayTextImage_EA3950E1_E086_38C3_41D8_28F8EB2B3F92.text =  Comedor sin Sillas
+HotspotPanoramaOverlayTextImage_EA3970E1_E086_38C2_41DA_21FD2E67AC3D.text =  Entrada a Comedor
+HotspotPanoramaOverlayTextImage_EA3B90DF_E086_38FF_41E9_06A2B25ECD32.text =  Pasillo 2do Piso
+HotspotPanoramaOverlayTextImage_EA3840E0_E086_38C1_41E2_4FBE68BE779A.text =  Playground
+HotspotPanoramaOverlayTextImage_EA38B0E0_E086_38C1_41D7_210C0519DE22.text =  Polideportivo    Acceso a  Laboratorio
+HotspotPanoramaOverlayTextImage_EA38F0E1_E086_38C3_41C3_979AD5B07C1A.text = Acceso al 1er Piso
+HotspotPanoramaOverlayTextImage_EA39F0E8_E086_38C1_41D1_6983606EB45E.text = Al pasillo
+HotspotPanoramaOverlayTextImage_EA4650E9_E086_38C3_41D0_66499D451CA4.text = Auditorio
+HotspotPanoramaOverlayTextImage_EA3B00DC_E086_38C1_41DF_FE9443181E7D.text = Calle
+HotspotPanoramaOverlayTextImage_EA46E0E7_E086_38CF_41E7_CF8B2B0BA84B.text = Laboratorio        deInformática
+HotspotPanoramaOverlayTextImage_EA3990E2_E086_38C1_41D4_F2104E64739C.text = Pasillo 2do Piso
+HotspotPanoramaOverlayTextImage_EA3AB0DB_E086_38C7_41E3_B7F5FD36E0F3.text = Recepción
+
+## Media
+
+### Audio
+AudioResource_EB0B81FE_E086_38BE_41B6_4BF9A9C54186.mp3Url = media/audio_F9519C28_E359_DB1F_41E8_ECD9E705759C_en.mp3
+AudioResource_EB0BA1FE_E086_38BE_41E9_3519D2B92442.mp3Url = media/audio_F98AA82B_E366_3B11_41C6_1D645BB1CBD3_en.mp3
+AudioResource_EB0BC1FE_E086_38BE_41BD_CC531C330D4F.mp3Url = media/audio_F9CD3A4B_E366_5F11_41E5_679F3541D93C_en.mp3
+AudioResource_EB0BB1FE_E086_38BE_41E3_46BC4F5C8407.mp3Url = media/audio_F9E9C201_E366_2F11_41D3_CEAD915E74B8_en.mp3
+audioresource_FBC32FEF_E35B_D511_41E0_D3CB3105CCD6.mp3Url = media/audio_FA062943_E35A_FD11_41CB_61E27AAD28F8_en.mp3
+audioresource_FBC32FEF_E35B_D511_41E0_D3CB3105CCD6.mp3Url = media/audio_FA062943_E35A_FD11_41CB_61E27AAD28F8_en.mp3
+audioresource_FBC32FEF_E35B_D511_41E0_D3CB3105CCD6.mp3Url = media/audio_FA062943_E35A_FD11_41CB_61E27AAD28F8_en.mp3
+audioresource_FBC32FEF_E35B_D511_41E0_D3CB3105CCD6.mp3Url = media/audio_FA062943_E35A_FD11_41CB_61E27AAD28F8_en.mp3
+AudioResource_EB0BE1FE_E086_38BE_41E2_092BBA4EF92C.mp3Url = media/audio_FB97A389_E366_6D11_41E6_48CBEAB331C6_en.mp3
+
+### Floorplan
+
+### Image
+imlevel_FD485479_E086_FFC2_41EA_7EE2BF8724D4.url = media/map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A_en_0.jpg
+imlevel_FD480479_E086_FFC2_41A0_C0DBE83F6FD7.url = media/map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A_en_1.jpg
+imlevel_FD481479_E086_FFC2_41B7_F76FD8825AFE.url = media/map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A_en_2.jpg
+imlevel_FD48E479_E086_FFC2_41D0_FCD1B06CC344.url = media/map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A_en_3.jpg
+imlevel_F31C08B1_E09A_5742_41E8_8C90107CB5A6.url = media/panorama_9DEA9E2D_88DD_DF83_41D4_2CF8D9518F72_HS_5jhwwhig_en.png
+imlevel_F3698733_E09A_7946_41EA_CE5A5362752D.url = media/panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD_HS_19v6qydq_en.png
+imlevel_F3670682_E09A_7B46_41DD_B9A83599F412.url = media/panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD_HS_vqk8tmww_en.png
+imlevel_F36716E9_E09A_78C2_4175_6F9D6B6AC3B2.url = media/panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD_HS_vz6hs81w_en.png
+imlevel_F3650625_E09A_7B42_41EA_9E5CA7E133BC.url = media/panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD_HS_ybwrc4b0_en.png
+imlevel_F3769FCD_E09A_48C2_41E7_2C36987C75D1.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_4mhz8ph9_en.png
+imlevel_F37F20FD_E09A_78C2_41E8_7E106A942D46.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_7aw1kh15_en.png
+imlevel_F379E019_E09A_7742_417E_CB6994E0F3F8.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_8v1pftvs_en.png
+imlevel_F3778EE2_E09A_48C6_41D9_526F25F9ACBF.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_i8wkzvl7_en.png
+imlevel_F37B306C_E09A_77C2_4191_F41BA94AA9D1.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_k8vlix8p_en.png
+imlevel_F37A308C_E09A_7742_41AE_74452213CB4D.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_kxg3l5u9_en.png
+imlevel_F3747F19_E09A_4942_41E9_E927A7F1037D.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_lweol35u_en.png
+imlevel_F37DD0AB_E09A_7746_41D2_0BE4307C96F9.url = media/panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA_HS_w4r9tafh_en.png
+imlevel_F320935D_E09A_59C3_41EB_18F06556ACB5.url = media/panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5_HS_0uvlzb5g_en.png
+imlevel_F32533EA_E09A_58C6_41B0_75D3F6473F4B.url = media/panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5_HS_5mdx40w9_en.png
+imlevel_F322B3C0_E09A_58C2_41B8_0ED5EB8B2213.url = media/panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5_HS_9vflbvvs_en.png
+imlevel_F33ED30A_E09A_5946_41B7_F1857BA5C7AE.url = media/panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5_HS_go55269k_en.png
+imlevel_F34AFB8C_E09A_4941_41AD_38850C4F439D.url = media/panorama_E8E42205_E364_33E7_41E6_A73F2DB39F27_HS_yd9o1grv_en.png
+imlevel_F21DA9C6_E09A_48CE_41AE_5C601993229F.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_5ev6m09n_en.png
+imlevel_F218698B_E09A_4946_41E3_05E7B8749BAE.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_6heyak29_en.png
+imlevel_F3476A41_E09A_4BC2_41B5_99306DC88210.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_bx670p0q_en.png
+imlevel_F3491A8B_E09A_4B46_41E0_6ACB35ECFFA2.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_ck1x9p5a_en.png
+imlevel_F34BEB1A_E09A_4946_41A2_46CEFAA16D90.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_pla3z6zp_en.png
+imlevel_F21D99E6_E09A_48CE_41E5_394BEF310F82.url = media/panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B_HS_v5r2dodu_en.png
+imlevel_F8D20D52_E09A_49C6_41EA_71B59D43E8ED.url = media/panorama_E9C4F462_E46B_FB69_41EA_EBF76426CC46_HS_imt9pzex_en.png
+imlevel_F3AE9A68_E09A_4BC2_41E3_8484B6B3D831.url = media/panorama_E9C4F462_E46B_FB69_41EA_EBF76426CC46_HS_iyli82f1_en.png
+imlevel_F354DDCC_E09A_48C2_41E5_FB5D04CCCA10.url = media/panorama_E9C4F462_E46B_FB69_41EA_EBF76426CC46_HS_oy9ljmjp_en.png
+imlevel_F3AC5A36_E09A_4B4E_41C5_663ACAD8E63C.url = media/panorama_E9C6E272_E46A_7F69_41D0_A0613D7F1112_HS_mv3lxgcb_en.png
+imlevel_F361E5C0_E09A_78C2_41E3_1E3E0808EC99.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_2umpxfri_en.png
+imlevel_F37E558B_E09A_7946_41DB_16A52DCEA40B.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_5iofr3xd_en.png
+imlevel_F5F9345E_E09A_7FFE_41C7_845EDC299730.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_91jl9rrz_en.png
+imlevel_F37AF4E0_E09A_78C2_41BE_71052C5132CB.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_ekavqcvk_en.png
+imlevel_F37AB527_E09A_794F_41DB_8132BADC3261.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_fn8eab9l_en.png
+imlevel_F37BA491_E09A_7F42_41C3_BF53B5C9B189.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_i2nqdqdu_en.png
+imlevel_F37FF568_E09A_79C2_41DE_E796C2679C75.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_s7pt96a1_en.png
+imlevel_F362D5FE_E09A_78BE_41E0_4BC6971A1E33.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_twofq8n3_en.png
+imlevel_F36085DD_E09A_78C3_41C7_2A827A4F2DD7.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_vv729ynt_en.png
+imlevel_F37D9545_E09A_79C3_41DA_0D832C1F0541.url = media/panorama_EA8920BB_E140_B91B_41E9_D14906604A6B_HS_zf21se1l_en.png
+imlevel_F31F2B62_E09A_49C6_41CE_FF70CCDA894A.url = media/panorama_EADDA963_E141_EB2B_41DB_CD069D3B479A_HS_6qv56ul1_en.png
+imlevel_F31CCB49_E09A_49C2_41E1_791C3133CBDD.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_2use38jt_en.png
+imlevel_F31B1ADD_E09A_48C2_41C3_A9EC5665B134.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_a52hl60b_en.png
+imlevel_F317CA4F_E09A_4BDE_41E7_FC3502581F54.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_bp1jp3y6_en.png
+imlevel_F31DBB2C_E09A_4942_41E0_AED93C2FCFC8.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_c1mtmxqa_en.png
+imlevel_F31229E7_E09A_48CF_41D8_60452160DA40.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_eqdvp6ix_en.png
+imlevel_F3188AA7_E09A_4B4E_41DE_A990F17ADE69.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_gpxarhr5_en.png
+imlevel_F3166A82_E09A_4B46_41E4_FF43B1F7B4B2.url = media/panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE_HS_qc4bs89p_en.png
+imlevel_F32954AD_E09A_5F42_41E8_C86819876B09.url = media/panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72_HS_148g4vzx_en.png
+imlevel_F6A8A84A_E09A_57C6_41DB_53ED44F07C64.url = media/panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72_HS_bv2eevau_en.png
+imlevel_F326944D_E09A_5FC2_41E1_ECAFEABF66CE.url = media/panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72_HS_dpxlhno6_en.png
+imlevel_F426366B_E09A_5BC6_41B8_C06E90084FCC.url = media/panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72_HS_r4x3bzsf_en.png
+imlevel_F42DF9BC_E09A_4942_41E7_B37CA7235248.url = media/panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72_HS_rjs0wexw_en.png
+imlevel_F33AC1F4_E09A_58C2_41E3_4AF1215EB6FF.url = media/popup_A6FCD7B0_E5A6_05E9_41BF_9AE914564AF3_en_0_0.jpg
+imlevel_F338D1F5_E09A_58C2_41E7_4A441D9951F3.url = media/popup_A6FCD7B0_E5A6_05E9_41BF_9AE914564AF3_en_0_1.jpg
+imlevel_F338C1F5_E09A_58C2_41D8_557EEA288DBD.url = media/popup_A6FCD7B0_E5A6_05E9_41BF_9AE914564AF3_en_0_2.jpg
+imlevel_F30DBEA2_E09A_4B46_41E2_7575E001AC95.url = media/popup_D287ACCB_E5AA_0BBF_41E6_2D957052D5AD_en_0_0.jpg
+imlevel_F30DEEA3_E09A_4B46_41DB_0C3A1785A967.url = media/popup_D287ACCB_E5AA_0BBF_41E6_2D957052D5AD_en_0_1.jpg
+imlevel_F30DFEA3_E09A_4B46_41EB_14DFB36F2DD2.url = media/popup_D287ACCB_E5AA_0BBF_41E6_2D957052D5AD_en_0_2.jpg
+imlevel_F33F42F1_E09A_58C2_41AA_01D9D1B94820.url = media/popup_D9171239_E5BA_3EDB_4198_5B1739633D10_en_0_0.jpg
+imlevel_F33EB2F1_E09A_58C2_41E3_9C6BA8BA404D.url = media/popup_D9171239_E5BA_3EDB_4198_5B1739633D10_en_0_1.jpg
+imlevel_F33E92F2_E09A_58C6_41B4_3B0246CC7ABB.url = media/popup_D9171239_E5BA_3EDB_4198_5B1739633D10_en_0_2.jpg
+imlevel_F37C80E8_E09A_78C2_41E4_742B2FCFBEC3.url = media/popup_D9285EF5_E59A_076B_41EB_851D422410FA_en_0_0.jpg
+imlevel_F37D80E8_E09A_78C2_41D2_2394A5409586.url = media/popup_D9285EF5_E59A_076B_41EB_851D422410FA_en_0_1.jpg
+imlevel_F37D90E8_E09A_78C2_41B6_8BEF881424DC.url = media/popup_D9285EF5_E59A_076B_41EB_851D422410FA_en_0_2.jpg
+imlevel_F37CB0E2_E09A_78C6_41CA_6C2E07A4AB4E.url = media/popup_D9A55FA7_E59E_05F7_41B7_CD44641293DF_en_0_0.jpg
+imlevel_F37C80E2_E09A_78C6_41D1_6A533BF47F4D.url = media/popup_D9A55FA7_E59E_05F7_41B7_CD44641293DF_en_0_1.jpg
+imlevel_F37C90E2_E09A_78C6_417E_8E825E8E134E.url = media/popup_D9A55FA7_E59E_05F7_41B7_CD44641293DF_en_0_2.jpg
+imlevel_F37C30BF_E09A_78BE_41E1_9D5167E3D829.url = media/popup_D9DC64D0_E5A6_1BA9_41D2_8E40C16E0AE7_en_0_0.jpg
+imlevel_F37A20BF_E09A_78BE_41E3_6932C357192C.url = media/popup_D9DC64D0_E5A6_1BA9_41D2_8E40C16E0AE7_en_0_1.jpg
+imlevel_F37A30BF_E09A_78BE_41C6_DCFA8277BABE.url = media/popup_D9DC64D0_E5A6_1BA9_41D2_8E40C16E0AE7_en_0_2.jpg
+imlevel_F5F4E3B7_E09A_794E_41E9_D8AB2E280F54.url = media/popup_DB2EED64_E5BA_0569_41E1_3DEFF8F54968_en_0_0.jpg
+imlevel_F5F4F3B7_E09A_794E_41D7_9619FEEB0986.url = media/popup_DB2EED64_E5BA_0569_41E1_3DEFF8F54968_en_0_1.jpg
+imlevel_F5F4C3B7_E09A_794E_41E3_39D06E30259A.url = media/popup_DB2EED64_E5BA_0569_41E1_3DEFF8F54968_en_0_2.jpg
+imlevel_F3050CC2_E09A_48C1_41CF_C62918E8E208.url = media/popup_DC01BADB_E5AE_0F5F_41E6_41FDAE1145C0_en_0_0.jpg
+imlevel_F3033CC3_E09A_48C7_41E1_C8EE1B9D19E5.url = media/popup_DC01BADB_E5AE_0F5F_41E6_41FDAE1145C0_en_0_1.jpg
+imlevel_F3030CC3_E09A_48C7_41D1_40073629263C.url = media/popup_DC01BADB_E5AE_0F5F_41E6_41FDAE1145C0_en_0_2.jpg
+imlevel_F303ABE9_E09A_48C2_41D4_045746C20EFF.url = media/popup_DC15C8AD_E5AE_0BFB_41BC_B6486BCD8164_en_0_0.jpg
+imlevel_F3038BEA_E09A_48C6_41CA_26EB7AE7826A.url = media/popup_DC15C8AD_E5AE_0BFB_41BC_B6486BCD8164_en_0_1.jpg
+imlevel_F3039BEA_E09A_48C6_41C6_A9CFF6E511CE.url = media/popup_DC15C8AD_E5AE_0BFB_41BC_B6486BCD8164_en_0_2.jpg
+imlevel_F333B021_E09A_5742_41A1_2B86ECF064F1.url = media/popup_DC61FB58_E5AA_0D58_41E6_AB80B9F13949_en_0_0.jpg
+imlevel_F333A021_E09A_5742_41DF_B554FB8545C1.url = media/popup_DC61FB58_E5AA_0D58_41E6_AB80B9F13949_en_0_1.jpg
+imlevel_F3339021_E09A_5742_4197_5CDBE4A8B484.url = media/popup_DC61FB58_E5AA_0D58_41E6_AB80B9F13949_en_0_2.jpg
+imlevel_F306DD55_E09A_49C2_41D1_A0B14E58E5C0.url = media/popup_DD9DF9F1_E5AA_0D6B_4197_B9AABB43D065_en_0_0.jpg
+imlevel_F3063D56_E09A_49CE_41CD_265D5A44BDB3.url = media/popup_DD9DF9F1_E5AA_0D6B_4197_B9AABB43D065_en_0_1.jpg
+imlevel_F3060D56_E09A_49CE_41E5_8DFF4AAE2965.url = media/popup_DD9DF9F1_E5AA_0D6B_4197_B9AABB43D065_en_0_2.jpg
+imlevel_F33510AB_E09A_5746_41E2_C3028BDCEE57.url = media/popup_DDA1676F_E5AA_0577_41C5_13DBF9C09495_en_0_0.jpg
+imlevel_F33200AC_E09A_5742_41E3_0E932098BA3D.url = media/popup_DDA1676F_E5AA_0577_41C5_13DBF9C09495_en_0_1.jpg
+imlevel_F33260AC_E09A_5742_41DC_CE58EF9952DC.url = media/popup_DDA1676F_E5AA_0577_41C5_13DBF9C09495_en_0_2.jpg
+imlevel_F336C13D_E09A_5942_41E0_D928324FDEB3.url = media/popup_DDB67E6D_E5AA_077B_41EB_FC229823E01C_en_0_0.jpg
+imlevel_F336313D_E09A_5942_41D7_9C2BA4FA3408.url = media/popup_DDB67E6D_E5AA_077B_41EB_FC229823E01C_en_0_1.jpg
+imlevel_F336113D_E09A_5942_41EA_D164891C55FE.url = media/popup_DDB67E6D_E5AA_077B_41EB_FC229823E01C_en_0_2.jpg
+imlevel_F5F9E44A_E09A_7FC6_41EB_B564AEC48A9B.url = media/popup_DE2FCAF8_E5BA_0F59_41E3_05A13E2CBDCD_en_0_0.jpg
+imlevel_F5F7944A_E09A_7FC6_41E3_FC858ABCC8FB.url = media/popup_DE2FCAF8_E5BA_0F59_41E3_05A13E2CBDCD_en_0_1.jpg
+imlevel_F5F7E44A_E09A_7FC6_41D2_032D1462BF97.url = media/popup_DE2FCAF8_E5BA_0F59_41E3_05A13E2CBDCD_en_0_2.jpg
+imlevel_F313E973_E09A_49C6_41D8_0ECF3E48A726.url = media/popup_DE814D19_E5BE_0AD8_41E8_315B83D193D4_en_0_0.jpg
+imlevel_F313C973_E09A_49C6_41C7_F0E85212DAD6.url = media/popup_DE814D19_E5BE_0AD8_41E8_315B83D193D4_en_0_1.jpg
+imlevel_F313D973_E09A_49C6_41E9_E601A12FA451.url = media/popup_DE814D19_E5BE_0AD8_41E8_315B83D193D4_en_0_2.jpg
+imlevel_F344AA3A_E09A_4B46_41E1_49A2E2629DC5.url = media/popup_DE85E94F_E5A6_0AB7_41D9_5C2FBD73C64E_en_0_0.jpg
+imlevel_F344DA3B_E09A_4B46_41E7_B3F44EFE1076.url = media/popup_DE85E94F_E5A6_0AB7_41D9_5C2FBD73C64E_en_0_1.jpg
+imlevel_F344FA3B_E09A_4B46_41D0_E866F580CD05.url = media/popup_DE85E94F_E5A6_0AB7_41D9_5C2FBD73C64E_en_0_2.jpg
+imlevel_F315E9D2_E09A_48C6_41EA_A1EAC3FD3284.url = media/popup_DEA413A8_E5BE_3DF9_41E8_D053101E9707_en_0_0.jpg
+imlevel_F313E9D3_E09A_48C6_41C2_E6A42F093E08.url = media/popup_DEA413A8_E5BE_3DF9_41E8_D053101E9707_en_0_1.jpg
+imlevel_F313F9D3_E09A_48C6_41E1_9361ACB75BE0.url = media/popup_DEA413A8_E5BE_3DF9_41E8_D053101E9707_en_0_2.jpg
+imlevel_F30B9E0E_E09A_4B5E_41E5_E8168BEAC2F9.url = media/popup_DF14DA02_E5AA_0EA9_41E1_63BE602FBBC7_en_0_0.jpg
+imlevel_F3099E0F_E09A_4B5E_41E2_6206D037AE72.url = media/popup_DF14DA02_E5AA_0EA9_41E1_63BE602FBBC7_en_0_1.jpg
+imlevel_F309EE0F_E09A_4B5E_4196_20625FEC53C6.url = media/popup_DF14DA02_E5AA_0EA9_41E1_63BE602FBBC7_en_0_2.jpg
+imlevel_F5F2731C_E09A_7942_41E1_EE15E8E51135.url = media/popup_DF9E2977_E5BA_0D57_419B_8772B96D5184_en_0_0.jpg
+imlevel_F5F0631D_E09A_7942_41E7_E5768D0CAC64.url = media/popup_DF9E2977_E5BA_0D57_419B_8772B96D5184_en_0_1.jpg
+imlevel_F5F0431D_E09A_7942_41D4_5093399A82DF.url = media/popup_DF9E2977_E5BA_0D57_419B_8772B96D5184_en_0_2.jpg
+imlevel_F36A07E4_E09A_78C2_41CB_AA83DC1DBD4F.url = media/popup_DFA3DD2D_E5BA_0AFB_41CE_0161BF92F0DD_en_0_0.jpg
+imlevel_F36A17E4_E09A_78C2_41E2_0E5ADC90C98F.url = media/popup_DFA3DD2D_E5BA_0AFB_41CE_0161BF92F0DD_en_0_1.jpg
+imlevel_F36A67E5_E09A_78C2_41E1_E20284507965.url = media/popup_DFA3DD2D_E5BA_0AFB_41CE_0161BF92F0DD_en_0_2.jpg
+imlevel_F36F4873_E09A_77C6_41D6_E3A003CB2FB3.url = media/popup_DFBE5525_E5BE_1AEB_41D4_C8D38EFF8A1C_en_0_0.jpg
+imlevel_F36D7874_E09A_77C2_41E6_3C744EB3D8D6.url = media/popup_DFBE5525_E5BE_1AEB_41D4_C8D38EFF8A1C_en_0_1.jpg
+imlevel_F36D4874_E09A_77C2_41C1_1338F0A3FA88.url = media/popup_DFBE5525_E5BE_1AEB_41D4_C8D38EFF8A1C_en_0_2.jpg
+imlevel_F30EFF2B_E09A_4946_41E6_43CEC932A23A.url = media/popup_DFF13C75_E5A6_0B6B_41E1_5FCDB3B8F3E7_en_0_0.jpg
+imlevel_F30CFF2C_E09A_4942_41E5_6BFF50D59C39.url = media/popup_DFF13C75_E5A6_0B6B_41E1_5FCDB3B8F3E7_en_0_1.jpg
+imlevel_F30CCF2C_E09A_4942_41D7_5D63DF9E34BC.url = media/popup_DFF13C75_E5A6_0B6B_41E1_5FCDB3B8F3E7_en_0_2.jpg
+imlevel_F37D10CE_E09A_78DE_41DA_34C1B66B8638.url = media/popup_DFF4557A_E5A6_0559_41E9_AD0F6383424C_en_0_0.jpg
+imlevel_F37D70CE_E09A_78DE_41BF_0F6F65C4A1A2.url = media/popup_DFF4557A_E5A6_0559_41E9_AD0F6383424C_en_0_1.jpg
+imlevel_F37D40CE_E09A_78DE_41BD_20BC23209DC5.url = media/popup_DFF4557A_E5A6_0559_41E9_AD0F6383424C_en_0_2.jpg
+imlevel_F37D40D3_E09A_78C6_41C8_143AF38F4014.url = media/popup_ED0D1369_F482_543D_41D8_69BE85EF1568_en_0_0.jpg
+imlevel_F37A40D3_E09A_78C6_418B_0FA2A1DE431A.url = media/popup_ED0D1369_F482_543D_41D8_69BE85EF1568_en_0_1.jpg
+imlevel_F37A50D3_E09A_78C6_41D9_1626C6CE4255.url = media/popup_ED0D1369_F482_543D_41D8_69BE85EF1568_en_0_2.jpg
+
+### Popup Image
+
+### Title
+panorama_F6165FE8_E4A4_502E_41CE_D0E472165F33.label = 1er Piso - 5to Grado
+panorama_F5392FBD_E4A4_7027_41E3_AB0AD55108CB.label = 1er Piso - 6to Grado
+panorama_F5217E84_E4A4_50E6_41B1_B7D2D7D82D72.label = 1er Piso - Acceso a 5to Grado y Aula 11
+panorama_EFE15D2B_E466_0AFF_41D4_0DCE456C6586.label = 1er Piso - Acceso a Aula 6
+panorama_F5213C55_E4A4_D066_416D_85F4BFC80191.label = 1er Piso - Acceso a Aula 9
+panorama_F521389D_E4A4_30E7_419D_206A40017412.label = 1er Piso - Acceso a Laboratorio de Informática
+panorama_E9C6E272_E46A_7F69_41D0_A0613D7F1112.label = 1er Piso - Aula 6
+panorama_E5184154_E93E_1FC6_41E2_8257B4F8A2FE.label = 1er Piso - Laboratorio de Informática
+panorama_E9C4F462_E46B_FB69_41EA_EBF76426CC46.label = 2do Piso - Acceso a Biblioteca
+panorama_E9C1D3F7_E46A_1D57_4197_60D58E87487C.label = 2do Piso - Auditorio Entrada
+panorama_E9C5C3B9_E46A_3DDB_41B2_81F19F4D0621.label = 2do Piso - Auditorio Punto 1
+panorama_E9C5B2DE_E46A_1F59_41E8_91B64D35D990.label = 2do Piso - Auditorio Punto 2
+panorama_E9C4108D_E46A_3BBB_41E4_FCB0E78FC031.label = 2do Piso - Biblioteca
+panorama_E9C2B1AC_E46A_1DF9_41D2_1E8C48B2DC22.label = 2do Piso - Biblioteca - Segundo Nivel
+panorama_F52171BD_E4A4_5027_41E5_9EE998F7E297.label = 2do Piso - Pasillo 1
+video_0AC8CE91_1CB3_CE52_41A3_B1EBC58551C6.label = MVI_1672_even_smaller_2
+video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424.label = MVI_1721
+video_3AB8D8D7_2D16_F0FD_41BD_704E76E595D4.label = MVI_1721_1
+video_3D0FCD17_2D0E_F17D_41B8_2F1A149B5046.label = MVI_1723
+map_D021BC9C_F1CC_DED3_41DF_BD35CA2B988A.label = Plano Primer Piso
+panorama_ED4F5164_E141_7B2C_41CB_BAE8006AA571.label = Planta Baja - 1er Grado
+panorama_EAE2003C_E141_991C_41CF_920F278E9C7B.label = Planta Baja - Acceso - 1er Grado
+panorama_E8FADA72_E364_F022_41C2_C29F7A235EAF.label = Planta Baja - Acceso - Preescolar
+panorama_EADDA963_E141_EB2B_41DB_CD069D3B479A.label = Planta Baja - Acceso a Cancha
+panorama_E8B9812A_E364_302D_41E2_DFDB9823113D.label = Planta Baja - Aula Preescolar
+panorama_9DEA9E2D_88DD_DF83_41D4_2CF8D9518F72.label = Planta Baja - Calle
+panorama_EADDBD3C_E141_6B1D_41C2_3B8C0C9C91C2.label = Planta Baja - Cancha - Acceso a Laboratorio
+panorama_EF3E255F_E364_5063_41EA_23F03465E467.label = Planta Baja - Cancha 2
+panorama_EADC6654_E140_996D_41E8_8F536A929374.label = Planta Baja - Cancha Centro
+panorama_E8A40EAA_F482_2C3F_41E6_946025D920FA.label = Planta Baja - Comedor - Acceso
+panorama_EA8920BB_E140_B91B_41E9_D14906604A6B.label = Planta Baja - Comedor - Sin Sillas
+panorama_E8E42205_E364_33E7_41E6_A73F2DB39F27.label = Planta Baja - Dirección
+panorama_EAF0B794_E147_67ED_41D1_DF56AF0E8AFE.label = Planta Baja - Jardín
+panorama_EA80C6E4_E147_992C_41D3_588476BDC207.label = Planta Baja - Laboratorio de Simulación - Punto 1
+panorama_EADCE602_E147_B8E5_41E0_A3348388DA41.label = Planta Baja - Laboratorio de Simulación - Punto 3
+panorama_EADC0494_E147_99EC_41E6_6E85636B3ABA.label = Planta Baja - Laboratorio de Simulación Punto 2
+panorama_E8C90C1B_E365_F7E2_41D7_18E9C82943A5.label = Planta Baja - Pasillo Aulas Esquina
+panorama_D71C9C4E_F482_EC77_41C8_21DC8CCD1AAD.label = Planta Baja - Playground
+panorama_E99065B9_F486_3C1D_41E7_FB47162CE88B.label = Planta Baja - Recepción
+
+### Video
+videolevel_FD43052C_E086_F942_41DB_F5A4E2675BD3.url = media/video_0AC8CE91_1CB3_CE52_41A3_B1EBC58551C6_en.mp4
+videolevel_FD43052C_E086_F942_41DB_F5A4E2675BD3.posterURL = media/video_0AC8CE91_1CB3_CE52_41A3_B1EBC58551C6_poster_en.jpg
+videolevel_FD5F15A2_E086_F946_41D2_E79D0310DDF1.url = media/video_3AB8D8D7_2D16_F0FD_41BD_704E76E595D4_en.mp4
+videolevel_FD5F15A2_E086_F946_41D2_E79D0310DDF1.posterURL = media/video_3AB8D8D7_2D16_F0FD_41BD_704E76E595D4_poster_en.jpg
+videolevel_FD41257F_E086_F9BE_41E7_727685C68941.url = media/video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424_en.m3u8
+videolevel_FD41357F_E086_F9BE_41EA_9850C13DA90E.url = media/video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424_en.mp4
+videolevel_FD41357F_E086_F9BE_41EA_9850C13DA90E.posterURL = media/video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424_poster_en.jpg
+videolevel_FD41257F_E086_F9BE_41E7_727685C68941.posterURL = media/video_3C35997B_2D0A_D1B5_41BC_B8E8C2EE3424_poster_en.jpg
+videolevel_FD426550_E086_F9C2_41DD_E04C986118DD.url = media/video_3D0FCD17_2D0E_F17D_41B8_2F1A149B5046_en.mp4
+videolevel_FD426550_E086_F9C2_41DD_E04C986118DD.posterURL = media/video_3D0FCD17_2D0E_F17D_41B8_2F1A149B5046_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_CAF7744F_E4AE_3AB8_41E2_E0AB3935C6F6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CB5F7EE7_E4AA_0777_41CF_BE76A5BB2BC6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_C872455D_E4E6_055B_4195_4480946DECFE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CABFA973_E4BA_0D68_41D2_3ED511317D81.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAB6FC10_E4AE_0AA9_41DF_C64B8324337E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAFE3160_E4AA_FD69_41EB_D1D860FFCD96.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CAFED8A6_E4AA_0BE9_41E8_613CAADB976E.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Skin
+
+### Button
+Button_035679DB_0DF8_570E_4181_0AB2725432EE.label = CERRAR
+Button_035679DB_0DF8_570E_4181_0AB2725432EE_mobile.label = CERRAR
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259.label = CONTACT0
+Button_33E0F47E_11C1_A20D_419F_BB809AD89259_mobile.label = CONTACT0
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = INFORMACIÓN
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = INFORMACIÓN
+Button_FAF42AFE_EEAC_A286_41E1_455B7B05093E.label = OCULTAR PUBLICIDAD
+Button_FAF42AFE_EEAC_A286_41E1_455B7B05093E_mobile.label = OCULTAR PUBLICIDAD
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = PERSPECTIVAS
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = PERSPECTIVAS
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = REVISTA
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = REVISTA
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = UBICACIÓN
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = UBICACIÓN
+
+### Image
+Image_093E20EF_1D2D_4AE2_4181_84D89F610E62.url = skin/Image_093E20EF_1D2D_4AE2_4181_84D89F610E62_en.png
+Image_093E20EF_1D2D_4AE2_4181_84D89F610E62_mobile.url = skin/Image_093E20EF_1D2D_4AE2_4181_84D89F610E62_mobile_en.png
+Image_D58672B5_E4AA_1FEB_41E6_C3284163793C.url = skin/Image_D58672B5_E4AA_1FEB_41E6_C3284163793C_en.png
+Image_D58672B5_E4AA_1FEB_41E6_C3284163793C_mobile.url = skin/Image_D58672B5_E4AA_1FEB_41E6_C3284163793C_mobile_en.png
+Image_E7B2A2F0_F0B5_AA52_41D2_6B37608AD1C2.url = skin/Image_E7B2A2F0_F0B5_AA52_41D2_6B37608AD1C2_en.png
+Image_E7B2A2F0_F0B5_AA52_41D2_6B37608AD1C2_mobile.url = skin/Image_E7B2A2F0_F0B5_AA52_41D2_6B37608AD1C2_mobile_en.png
+Image_E8F488D4_F14C_A653_41CA_94DCA84FF02A.url = skin/Image_E8F488D4_F14C_A653_41CA_94DCA84FF02A_en.jpg
+Image_E8F488D4_F14C_A653_41CA_94DCA84FF02A_mobile.url = skin/Image_E8F488D4_F14C_A653_41CA_94DCA84FF02A_mobile_en.jpg
+Image_EDEA5FBA_F14D_5AD7_41CE_F4032C56F2D1.url = skin/Image_EDEA5FBA_F14D_5AD7_41CE_F4032C56F2D1_en.jpg
+Image_EDEA5FBA_F14D_5AD7_41CE_F4032C56F2D1_mobile.url = skin/Image_EDEA5FBA_F14D_5AD7_41CE_F4032C56F2D1_mobile_en.jpg
+
+### Multiline Text
+HTMLText_0FF01D6F_1D2B_3BE2_41BB_C30E6D4A517A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.370000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5.37vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.26vh;font-family:'Oswald';"><B>Colegio Adventista de Asunción</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-family:'Oswald Regular';">Una institución para el regocijo intelectual, espiritual y personal de nuestros niños en crecimiento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La EA considera el proceso educativo de forma integral y promueve la interacción entre la teoría y la práctica, el pensar y el hacer, la razón y la emoción, lo individual y lo colectivo, la causa y el efecto; entiende que tanto los educadores como los estudiantes pueden enseñar y aprender.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La propuesta pedagógica de la red EA es respetuosa de las políticas y los currículos educativos de cada país, con el objetivo fundamental de formar estudiantes reflexivos y creativos. Además, facilita la transformación del conocimiento en actitudes, mediante la resolución de los problemas cotidianos de los estudiantes. Nuestra pedagogía se basa en las premisas de una educación cristiana y en el compromiso de guiar todas las actividades didácticas hacia la calidad en el proceso de enseñanza-aprendizaje y la integración natural de la fe y la enseñanza.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">Nuestro currículo promueve la excelencia académica e incluye todos los contenidos esenciales para la práctica de una ciudadanía responsable. Su objetivo es desarrollar equilibradamente la vida espiritual, intelectual, física, social, emocional y vocacional de los estudiantes.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.370000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.37vh;font-family:'Oswald';"><B>Educación Adventista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald Regular';"><B>Para mayor información sobre nuestras instituciones, cursos y aranceles, contactenos por medio de los enlaces abajo.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="http://cada.educacionadventista.com/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>cada.educacionadventista.com</U></B></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:recepcion.colegioadventista@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>recepcion.colegioadventista@gmail.com</U></B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Tel.: (021) 226 057</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Carandayty 440</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Asunción, Paraguay</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PANORAMAS</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PLANOS</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>UBICACIÓN</B></SPAN></SPAN></DIV></div>
+HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.370000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5.37vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.26vh;font-family:'Oswald';"><B>Colegio Adventista de Asunción</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-family:'Oswald Regular';">Una institución para el regocijo intelectual, espiritual y personal de nuestros niños en crecimiento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La EA considera el proceso educativo de forma integral y promueve la interacción entre la teoría y la práctica, el pensar y el hacer, la razón y la emoción, lo individual y lo colectivo, la causa y el efecto; entiende que tanto los educadores como los estudiantes pueden enseñar y aprender.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">La propuesta pedagógica de la red EA es respetuosa de las políticas y los currículos educativos de cada país, con el objetivo fundamental de formar estudiantes reflexivos y creativos. Además, facilita la transformación del conocimiento en actitudes, mediante la resolución de los problemas cotidianos de los estudiantes. Nuestra pedagogía se basa en las premisas de una educación cristiana y en el compromiso de guiar todas las actividades didácticas hacia la calidad en el proceso de enseñanza-aprendizaje y la integración natural de la fe y la enseñanza.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;">Nuestro currículo promueve la excelencia académica e incluye todos los contenidos esenciales para la práctica de una ciudadanía responsable. Su objetivo es desarrollar equilibradamente la vida espiritual, intelectual, física, social, emocional y vocacional de los estudiantes.</SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.370000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.37vh;font-family:'Oswald';"><B>Educación Adventista</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-family:'Oswald Regular';"><B>Para mayor información sobre nuestras instituciones, cursos y aranceles, contactenos por medio de los enlaces abajo.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="http://cada.educacionadventista.com/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>cada.educacionadventista.com</U></B></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:recepcion.colegioadventista@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Oswald';"><B><U>recepcion.colegioadventista@gmail.com</U></B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Tel.: (021) 226 057</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Carandayty 440</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B>Asunción, Paraguay</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PANORAMAS</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>PLANOS</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.7vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.7vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Oswald';"><B>UBICACIÓN</B></SPAN></SPAN></DIV></div>
+HTMLText_0FF01D6F_1D2B_3BE2_41BB_C30E6D4A517A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.4px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8.4px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.4px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8.4px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.4px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8.4px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.4px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:8.4px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Una institución para el regocijo intelectual, espiritual y personal de nuestros niños en crecimiento.
+
+### Title
+tour.name = Colegio Adventista de Asunción
+
+## VR Menu
+
+### Text
+MenuItem_FED3EB02_E086_C941_41E2_DBB5E4530C4B.label = 1er Piso - 5to Grado
+MenuItem_FED35B02_E086_C941_41D3_EF54D60653B1.label = 1er Piso - 6to Grado
+MenuItem_FED25B03_E086_C947_41DB_D0ED44425F7C.label = 1er Piso - Acceso a 5to Grado y Aula 11
+MenuItem_FED39B02_E086_C941_41C6_0233B06CDDD3.label = 1er Piso - Acceso a Aula 6
+MenuItem_FED3CB02_E086_C941_41C7_417C718A892E.label = 1er Piso - Acceso a Aula 9
+MenuItem_FED3FB02_E086_C941_41E7_E0DF9043E870.label = 1er Piso - Acceso a Laboratorio de Informática
+MenuItem_FED25B02_E086_C941_41CB_8307B44BAA27.label = 1er Piso - Aula 6
+MenuItem_FED2DB02_E086_C941_41B7_8E247A188112.label = 1er Piso - Laboratorio de Informática
+MenuItem_FED26B02_E086_C941_41D2_4746E0483067.label = 2do Piso - Acceso a Biblioteca
+MenuItem_FED2EB02_E086_C941_4195_2DDB060BDF81.label = 2do Piso - Auditorio Entrada
+MenuItem_FED2BB02_E086_C941_41C4_E723F927D051.label = 2do Piso - Auditorio Punto 1
+MenuItem_FED16B03_E086_C947_41DA_1D5C375A7B1D.label = 2do Piso - Auditorio Punto 2
+MenuItem_FED38B02_E086_C941_41DC_9CB14257F499.label = 2do Piso - Biblioteca
+MenuItem_FED20B02_E086_C941_41C0_755193811B74.label = 2do Piso - Biblioteca - Segundo Nivel
+MenuItem_FED13B03_E086_C947_41E0_515F1D09A881.label = 2do Piso - Pasillo 1
+Menu_EB0B91FE_E086_38BE_41E5_B100FE7855F3.label = Media
+MenuItem_FED21B02_E086_C941_41D1_ACE45A1B5404.label = Planta Baja - 1er Grado
+MenuItem_FED23B02_E086_C941_41C7_6CB02A3BC14F.label = Planta Baja - Acceso - 1er Grado
+MenuItem_FED36B02_E086_C941_41CA_48375F29648C.label = Planta Baja - Acceso - Preescolar
+MenuItem_FED23B03_E086_C947_414E_ECB08ADB8315.label = Planta Baja - Acceso a Cancha
+MenuItem_FED32B02_E086_C941_41BD_CC52D6265436.label = Planta Baja - Aula Preescolar
+MenuItem_FED27B02_E086_C941_41E3_ED45E29D3A1E.label = Planta Baja - Calle
+MenuItem_FED31B02_E086_C941_41E8_9CD9182B416E.label = Planta Baja - Cancha - Acceso a Laboratorio
+MenuItem_FED26B03_E086_C947_41D8_46A692683C85.label = Planta Baja - Cancha 2
+MenuItem_FED24B03_E086_C947_41D3_0EBE283DD4E1.label = Planta Baja - Cancha Centro
+MenuItem_FED17B03_E086_C947_41E4_738D8A5F69A1.label = Planta Baja - Comedor - Acceso
+MenuItem_FED10B03_E086_C947_41C5_41991A422A7F.label = Planta Baja - Comedor - Sin Sillas
+MenuItem_FED28B03_E086_C947_41E6_26D1C5EBC390.label = Planta Baja - Dirección
+MenuItem_FED27B03_E086_C947_41D1_5FA751F98B8C.label = Planta Baja - Jardín
+MenuItem_FED29B03_E086_C947_41E6_9ACE350D7CAD.label = Planta Baja - Laboratorio de Simulación - Punto 1
+MenuItem_FED1EB03_E086_C947_41E5_C8211A0A5DBD.label = Planta Baja - Laboratorio de Simulación - Punto 3
+MenuItem_FED15B03_E086_C947_41DB_F50B71C4112D.label = Planta Baja - Laboratorio de Simulación Punto 2
+MenuItem_FED3BB02_E086_C941_41D9_159FC8CA3BCB.label = Planta Baja - Pasillo Aulas Esquina
+MenuItem_FED39B03_E086_C947_41E3_A8841AEB0AB6.label = Planta Baja - Playground
+MenuItem_FED2CB02_E086_C941_41E6_1B6B1899021E.label = Planta Baja - Recepción
